@@ -53,7 +53,8 @@ Movie class represents movie data.
 ### In VS Code 
 
 Install dependencies and build project:
-```.\mvnw.cmd clean install
+```
+.\mvnw.cmd clean install
 ```
 ```
 .\mvnw.cmd spring-boot:run
